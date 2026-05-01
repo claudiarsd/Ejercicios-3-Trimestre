@@ -1,0 +1,21 @@
+/*Primera Fila*/
+td.c-teal{
+    color: teal;
+}
+td.f-rojo{
+    
+    background-color: red;
+}
+td.f-verde{
+    
+    background-color: green;
+}
+td.f-azul{
+    
+    background-color: blue;
+}
+/*Segunda Fila*/
+td.c-rojo{
+    color: red;
+}
+

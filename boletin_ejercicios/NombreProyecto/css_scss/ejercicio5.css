@@ -1,0 +1,72 @@
+h1#titulo{
+    color:cadetblue;
+    font-weight: bold;
+}
+
+p strong{
+    color:red;
+
+}
+p span.destacado{
+    color:rgba(238, 238, 67, 0.827);
+    font-weight: bold;
+}
+
+h2#subtitulo{
+    color:mediumblue;
+    font-weight: bold;
+}
+
+p a{
+    color:red;
+
+}
+
+p em{
+    color:blue;
+    font-style: italic;
+}
+
+span.especial{
+    color:purple;
+    font-weight: bold;
+}
+
+table,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: left;
+}
+caption{
+    color:blue;
+}
+
+th.especial{
+    color:orange;
+    font-style: bold;
+}
+
+td {
+    color:green;
+
+}
+td strong {
+    color:orange;
+}
+
+th{
+    color:red;
+}
+
+div#adicional{
+    color:olive;
+}
+span#especial{
+    color:magenta;
+}
+
+p a#enlace-especial{
+    color:green;
+}
+

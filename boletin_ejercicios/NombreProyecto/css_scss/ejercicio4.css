@@ -1,0 +1,45 @@
+*{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size:14px;
+    line-height:1.6;
+    color:#494949;
+}
+
+* p{
+    color:#666;
+}
+
+* h1{
+    font-weight: bold;
+    font-size:22px;
+    color:#DD1E64;
+}
+
+*.descripcion{
+    font-size:16px;
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+
+h1 span.especial{
+    font-weight: bold;
+    color:yellowgreen;
+    background-color: black;
+}
+
+img #destacado{
+    width:100%;
+}
+
+
+#anuncio{
+    width:60%;
+    margin:auto;
+    background-color: #DD1E64;
+
+}
+
+p#anuncio{
+    color:white;
+}
