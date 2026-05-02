@@ -1,7 +1,8 @@
 /*Primera Fila*/
-td.c-teal{
+tr#teal{
     color: teal;
 }
+
 td.f-rojo{
     
     background-color: red;
@@ -15,7 +16,26 @@ td.f-azul{
     background-color: blue;
 }
 /*Segunda Fila*/
-td.c-rojo{
+
+tr#rojo{
     color: red;
 }
 
+tr#azul{
+    color: blue;
+}
+tr#naranja{
+    color: orange;
+}
+tr#morado{
+    color: purple;
+}
+tr#olive{
+    color: olive;
+}
+tr#fuscia{
+    color: fuchsia;
+}
+tr#verde{
+    color: green;
+}

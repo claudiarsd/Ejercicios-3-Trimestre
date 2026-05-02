@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(102, 156, 200);
+}
+
+* p,a{
+    color: white;
+}
+
+p.segundo{
+    color:#FF0000;
+}
+p.tercero{
+    color:hsl(350, 100%, 88%);
+}
+
+a{
+    background-color: rgb(255, 255, 0, 0.5);
+}
+
+p.tercero{
+    background-color: hsla(180, 100%, 50%, 0.5);
+}

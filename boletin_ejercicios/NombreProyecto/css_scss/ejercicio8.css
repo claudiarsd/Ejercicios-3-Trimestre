@@ -1,0 +1,31 @@
+table {
+    border: 8px solid gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+th{
+    background-color: grey;
+}
+.td1{
+    color: white;
+    background-color: #696969;
+}
+
+.td2{
+    color: white;
+    background-color: #CD5C5C;
+}
+
+#td3, .td3{
+    color: white;
+    background-color: #B22222;
+}
+
+.td4{
+    color: white;
+    background-color: #1E90FF;
+}
+
+.td5{
+    color: white;
+    background-color: #4B0082;
+}

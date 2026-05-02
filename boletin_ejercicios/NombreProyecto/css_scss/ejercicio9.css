@@ -1,0 +1,20 @@
+* a{
+    color: red;
+}
+
+p#especial{
+    color:deepskyblue;
+}
+span#simple{
+    color: darkblue;
+    background-color:rgb(245, 241, 211);
+}
+
+.subrayado{
+    color: yellow;
+    background-color: black;
+}
+
+span#cursiva{
+    font-style: italic;
+}
