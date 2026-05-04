@@ -1,0 +1,52 @@
+p#azul_oscuro{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+p#verde{
+    font-family: "Comic Sans MS", "Comic Sans";
+    color: seagreen;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+p#turquesa{
+    font-family: Garamond;
+    color: turquoise;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+p#lavanda{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    color: lavender;
+}
+
+p#fucsia{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: fuchsia;
+}
+
+p#violeta{
+    font-family: 'Courier New', Courier, monospace;
+    color: violet;
+    font-size: 10px;
+}
+
+p#azul_grisaceo{
+    font-family:"Lucida Console";
+    font-size:12px;
+    color: LightSlateGray;
+}
+
+p#marron{
+    font-family: "Monotype Corsiva";
+    font-size: 14px;
+    color: brown;
+    font-style: italic;
+
+}
