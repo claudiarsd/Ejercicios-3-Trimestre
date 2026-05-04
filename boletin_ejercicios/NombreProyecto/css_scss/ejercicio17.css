@@ -1,0 +1,11 @@
+.width{
+    background-color: yellow;
+    width: 250px;
+    height: auto;
+}
+
+.height{
+    background-color: aqua;
+    height: 150px;
+    width: 250px;
+}
