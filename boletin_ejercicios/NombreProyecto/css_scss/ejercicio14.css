@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+p{
+    color: blue;
+    font-family: Arial, Helvetica,  sans-serif;
+}
+
+p.plata{
+    background-color: grey;
+}
+
+span{
+    color: red;
+}
+
+p#derecha{
+    text-align: right;
+}
+
+p#centrado{
+    text-align: center;
+}
