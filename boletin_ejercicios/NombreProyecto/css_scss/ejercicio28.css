@@ -1,0 +1,7 @@
+#degradado{
+    border: 10px solid transparent;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, red, orange);
+    
+
+}
