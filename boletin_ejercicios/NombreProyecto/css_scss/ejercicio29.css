@@ -1,0 +1,29 @@
+.caja1{
+    border: 5px solid red;
+    background-color: gray;
+    font-family: "Comic Sans MS";
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    margin: 25px;
+}
+
+p#subrayado{
+    text-shadow: 0 0 8px rgba(255, 255, 0, 0.8);
+    background: transparent;
+    
+    
+}
+
+.caja2{
+    border: 7px solid green;
+    background-color: gray;
+    color: aliceblue;
+    font-family: "Comic Sans MS";
+    width: 300px;
+    height: 200px;
+    padding: 5px;
+    margin: 0px;
+
+
+}

@@ -1,0 +1,10 @@
+.caja_grande{
+    border: 3px solid red;
+    
+}
+
+.caja1{
+    border: 3px solid green;
+    width: 50%;
+    border-top-width: 10px;
+}
