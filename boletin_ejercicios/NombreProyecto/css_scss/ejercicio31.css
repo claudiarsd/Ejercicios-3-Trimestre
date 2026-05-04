@@ -1,0 +1,22 @@
+div#sin_relleno{
+    border: 5px solid red;
+    font-family: "Comic Sans MS";
+    text-shadow: 0 0 8px rgba(248, 168, 8, 0.8);
+    background: transparent;
+}
+
+div#relleno25{
+    border: 5px solid blue;
+    padding: 25px;
+    font-family: "Comic Sans MS";
+    text-shadow: 0 0 8px rgba(248, 168, 8, 0.8);
+    background: transparent;
+}
+
+div#relleno50{
+    border: 5px solid green;
+    padding: 50px;
+    font-family: "Comic Sans MS";
+    text-shadow: 0 0 8px rgba(248, 168, 8, 0.8);
+    background: transparent;
+}

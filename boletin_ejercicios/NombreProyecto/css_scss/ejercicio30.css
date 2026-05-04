@@ -1,10 +1,39 @@
 .caja_grande{
-    border: 3px solid red;
+    border: 8px solid red;
+    padding: 10px;
+    margin-bottom: 20px;
     
 }
 
 .caja1{
-    border: 3px solid green;
+    border: 7px solid green;
     width: 50%;
-    border-top-width: 10px;
+    top: 10px;
+    left: 10px;
+    margin-left: 0%;
+    font-family: "Comic Sans MS";
+    text-shadow: 0 0 8px rgba(248, 168, 8, 0.8);
+    background: transparent;
+}
+
+.caja2{
+    border: 7px solid blue;
+    width: 50%;
+    top: 10px;
+    left: 10px;
+    margin-left: 20%;
+    font-family: "Comic Sans MS";
+    text-shadow: 0 0 8px rgba(248, 168, 8, 0.8);
+    background: transparent;
+}
+
+.caja3{
+    border: 7px solid orange;
+    width: 50%;
+    top: 10px;
+    left: 10px;
+    margin-left: 40%;
+    font-family: "Comic Sans MS";
+    text-shadow: 0 0 8px rgba(248, 168, 8, 0.8);
+    background: transparent;
 }
