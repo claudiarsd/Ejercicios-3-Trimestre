@@ -1,0 +1,16 @@
+p#borde_azul{
+    border: 5px solid blue;
+}
+
+p#puntuado{
+    border: 5px dotted green;
+}
+
+p#rayas{
+    border: 5px dashed purple;
+}
+
+p#mixto{
+    border: 5px solid;
+    border-image: linear-gradient(to right, red, orange, yellow) 1;
+}

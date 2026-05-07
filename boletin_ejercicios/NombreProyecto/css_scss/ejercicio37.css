@@ -1,0 +1,61 @@
+.caja1{
+    background-color: lightblue;
+    width: 40px;
+    
+}
+
+.caja2{
+    background-color: lightskyblue;
+    width: 55px;
+}
+
+.caja3{
+    background-color: dodgerblue;
+    width: 65px;
+}
+
+.caja1rosa{
+    background-color:rgba(246, 224, 227, 0.479);
+    width: 40px;
+    border-radius: 5px;
+}
+
+.caja2rosa{
+    background-color: pink;
+    width: 55px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.caja3rosa{
+    background-color:palevioletred;
+    width: 65px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.cajagrande{
+    background: dodgerblue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100px;
+    width: 100px;
+    border-radius:8px;
+}
+
+.cajamediana{
+    background: lightskyblue;
+    width: 70px;
+    height:70px;
+    border-radius:8px;
+}
+
+.cajapequeña{
+    background: lightblue;
+    width: 50px;
+    height:50px;
+    border-radius:8px;
+    
+    margin: 10px;
+    }

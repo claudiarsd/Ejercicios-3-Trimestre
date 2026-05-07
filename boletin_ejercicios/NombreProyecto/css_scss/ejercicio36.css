@@ -1,0 +1,20 @@
+.caja_azul{
+    width: 200px;
+    height:200px;
+    background: blue;
+    border-radius:40px 40px 0 0 ;
+}
+
+.caja_verde{
+    width: 200px;
+    height: 200px;
+    background: green;
+    border-radius: 0 0 90px 90px;
+}
+
+.circulo{
+    width:155px;
+    height:155px;
+    background:purple;
+    border-radius:50%;
+}
