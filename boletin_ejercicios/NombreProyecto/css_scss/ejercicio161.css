@@ -1,0 +1,21 @@
+.contenedor{
+    background-color: black;
+    display: grid;
+    gap:2px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    height: auto;
+    
+}
+
+.numeros{
+    color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+}
+
+.vacio{
+    background-color: white;
+    grid-column: 2/ 5;
+}

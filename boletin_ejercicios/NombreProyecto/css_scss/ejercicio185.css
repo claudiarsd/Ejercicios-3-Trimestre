@@ -1,0 +1,8 @@
+.contenedor {
+    display: grid;
+    grid-template-areas: "FM FM header header header"
+                            "SB product product product product"
+                            "";
+    
+}
+

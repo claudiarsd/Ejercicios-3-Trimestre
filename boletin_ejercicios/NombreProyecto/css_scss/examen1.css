@@ -1,0 +1,133 @@
+/* Quitamos los márgenes que el navegador pone por defecto */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fondo oscuro de la página */
+body {
+  background-color: black;
+}
+
+/* El contenedor principal que tiene las 3 columnas */
+.contenedor {
+  display: flex;
+  width: 1000px;
+  height: 450px;
+  margin: 40px auto;
+  gap: 4px;
+  background-color: black;
+  border: 4px solid black;
+}
+
+/* --------------------------------
+   COLUMNA IZQUIERDA
+-------------------------------- */
+.columna-izquierda {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 150px;
+}
+
+/* --------------------------------
+   COLUMNA DEL MEDIO
+-------------------------------- */
+.columna-medio {
+  width: 280px;
+}
+
+/* La caja roja del medio ocupa todo el alto */
+.columna-medio .caja {
+  height: 100%;
+}
+
+/* --------------------------------
+   COLUMNA DERECHA
+-------------------------------- */
+.columna-derecha {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 4px;
+}
+
+/* --------------------------------
+   LOS COLORES DE LAS CAJAS
+-------------------------------- */
+.rojo {
+  background-color: red;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+.blanco {
+  background-color:aliceblue;
+}
+
+/* --------------------------------
+   TAMAÑOS ESPECIALES
+-------------------------------- */
+
+/* Caja roja pequeña (arriba izquierda) */
+.pequeño {
+  height: 90px;
+}
+
+/* Caja amarilla grande (abajo izquierda) */
+.grande {
+  flex: 1;
+}
+
+/* Barra azul de arriba a la derecha */
+.barra-azul {
+  height: 55px;
+}
+
+/* Caja blanca con el texto */
+.texto-box {
+  flex: 1;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  text-align: right;
+}
+
+/* Título */
+.texto-box h1 {
+  font-family: Arial, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: black;
+  margin-bottom: 15px;
+}
+
+/* Párrafo */
+.texto-box p {
+  font-family: Arial, sans-serif;
+  font-size: 0.7rem;
+  color: gray;
+  line-height: 1.6;
+  max-width: 350px;
+}
+
+/* Fila de 3 cajitas de abajo */
+.fila-abajo {
+  display: flex;
+  gap: 4px;
+  height: 110px;
+}
+
+/* Las 3 cajitas del final tienen el mismo ancho */
+.fila-abajo .caja {
+  flex: 1;
+}

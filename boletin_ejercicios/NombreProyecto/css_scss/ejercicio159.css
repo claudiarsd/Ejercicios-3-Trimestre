@@ -1,0 +1,16 @@
+.contenedor{
+    background-color: black;
+    display: grid;
+    grid-template-rows: auto;
+    box-sizing: border-box;
+    gap:2px;
+    
+}
+
+.numeros{
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: green;
+}

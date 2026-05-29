@@ -1,0 +1,78 @@
+.contenedor{
+    background-color: black;
+    display: grid;
+    gap:2px;
+    grid-template-columns: 1fr 2fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-areas: "one two three four"
+                            "five . six seven"
+                            "nine nine nine eight";
+    height: auto;
+    
+}
+
+
+
+.one {
+    color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: one;
+}
+.two {
+    color: aliceblue;
+    background-color: green;
+    text-align: center;
+    grid-area: two;
+}
+.three {
+        color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: three;
+}
+.four {
+        color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: four;
+}
+.five {
+        color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: five;
+}
+.six {
+        color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: six;
+}
+.seven {
+            color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: seven;
+}
+.eight {
+    color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: eight;
+}
+.nine {
+    color: aliceblue;
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    grid-area: nine;
+}
+
